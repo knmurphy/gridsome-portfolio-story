@@ -6,7 +6,7 @@
 
 ## One-click deploy to Netlify
 
-[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/Edmund1645/gridsome-portfolio-story)
+[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/knmurphy/gridsome-portfolio-story)
 
 ## Config
 
